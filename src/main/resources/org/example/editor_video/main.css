@@ -1,0 +1,9 @@
+.frameIconLogin {
+    -fx-border-radius: 88px;
+    -fx-width: 22px;
+    -fx-height: 22px;
+    -fx-background-color: #ccc;
+}
+.root {
+    --fx-background-color: black;
+}
